@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:background="@color/aeon_purple"
+        android:icon="@drawable/home_foreground"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/cart"
+        android:background="@color/aeon_purple"
+        android:icon="@drawable/cart_foreground"
+        android:title="Cart" />
+
+    <item
+        android:id="@+id/account"
+        android:background="@color/aeon_purple"
+        android:icon="@drawable/account_foreground"
+        android:title="Account" />
+
+    <item
+        android:id="@+id/settings"
+        android:background="@color/aeon_purple"
+        android:icon="@drawable/settings_foreground"
+        android:title="Setting" />
+</menu>

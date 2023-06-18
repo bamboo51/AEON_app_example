@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">AEON_Shopping_kotlin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="food_content">
+        "\nAmount: 1 piece (62g)\n\n"
+
+        "Price: 98 yen (105.84 yen: including tax)\n\n"
+
+        "Allergen information:\n"
+        "\t\t\t\t\t1. Eggs\n"
+        "\t\t\t\t\t2. Milk\n"
+        "\t\t\t\t\t3. Wheat\n"
+        "\t\t\t\t\t4. Soybean\n\n"
+
+        "Nutrition (per 1-piece 62g)\n"
+        "\t\t\t\t\t-Energy: 233 kcal\n"
+        "\t\t\t\t\t-Protein: 3.5g\n"
+        "\t\t\t\t\t-Fat: 9.0g\n"
+        "\t\t\t\t\t\t\t\tSaturated fatty acid 2.61g\n"
+        "\t\t\t\t\t\t\t\tTrans-fatty acid 0.19g\n"
+        "\t\t\t\t\t\t\t\tCholesterol 48mg\n"
+        "\t\t\t\t\t-Carbohydrate 35g\n"
+        "\t\t\t\t\t-Sugar 34.0g\n"
+        "\t\t\t\t\t-Dietary fiber 1g\n"
+        "\t\t\t\t\t-Salt 0.2g\n\n"
+
+        "Genetic modification:\n"
+        "\t\t\t\t\tEmulsifier (Soybean): Genetically modified unsorted (may contain modified soybeans)\n\n\n"
+
+    </string>
+
+    <string name="news">
+
+        "\n\n"
+        "2021.12.12 InterCollege Present\n\n"
+        "2021.12.12 AEON Mall thank you day sales 70% off!\n\n"
+        "2021.12.12 Gift voucher 1000yen for 1000 people\n\n"
+        "2021.12.12 12.12 Electric Applicants sales 30% off!\n\n"
+        "2021.12.12 New products arrive\n\n"
+    </string>
+</resources>
