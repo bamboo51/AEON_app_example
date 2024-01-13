@@ -1,6 +1,8 @@
 # Aeon Shopping App
 **This app is for demonstration only. AEON corporation just only sponsored in a hackathon and this app is for that hackathon only.**
 
+**This project is deprecated from Kotlin Gradle Support**
+
 This repository contains the source code for the Aeon Shopping app developed using Kotlin and Android Studio. The app allows users to explore products, scan barcodes, and manage their shopping activities.
 
 ## Features
